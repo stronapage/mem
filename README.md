@@ -1,0 +1,2 @@
+# mem
+notatki do zapamiętania
