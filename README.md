@@ -1,4 +1,5 @@
 ## Rodzaje rzeczowników DE
+<pre>
 der Hund
 der Freund
 der Baum
@@ -45,7 +46,8 @@ das Fahrrad
 das Restaurant
 das Ende
 das Wetter
-
+</pre>
+  
 ## Temporary mail
 https://tmailor.com/pl
 
