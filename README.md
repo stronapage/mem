@@ -18,6 +18,7 @@ der Bar miś
 der Schreibtisch
 der Teppich
 der Mond
+der Flughafen
 
 die Mutter
 die Katze
