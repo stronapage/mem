@@ -47,6 +47,7 @@ das Fahrrad
 das Restaurant
 das Ende
 das Wetter
+das Kleid
 </pre>
   
 ## Temporary mail
