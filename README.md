@@ -19,6 +19,7 @@ der Schreibtisch
 der Teppich
 der Mond
 der Flughafen
+der Fish
 
 die Mutter
 die Katze
