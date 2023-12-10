@@ -20,7 +20,9 @@ der Teppich
 der Mond
 der Flughafen
 der Fish
-
+der Wein
+der Film
+  
 die Mutter
 die Katze
 die Arbeit
@@ -34,7 +36,12 @@ die Nummer
 die Strasse
 die Maus
 die Lampe
-
+die Sonne
+die Kleidung
+die Uhr
+die Schnecke
+die Mayo
+  
 das Haus
 das Leckerli
 das Kind
@@ -49,6 +56,12 @@ das Restaurant
 das Ende
 das Wetter
 das Kleid
+das Sandwich
+das theater
+das Kino
+das Haustier
+
+  
 </pre>
   
 ## Temporary mail
