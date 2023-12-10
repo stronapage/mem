@@ -10,6 +10,7 @@ der Freund
 der Garten
 der Hund
 der Kaffee
+der Kuchen
 der Kuli
 der Mantel
 der Marathon
