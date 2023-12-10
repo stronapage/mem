@@ -4,6 +4,7 @@ der Hund
 der Freund
 der Baum
 der Blumenstrauß
+der Garten
 der Kaffee
 der Mantel
 der Kuli
@@ -40,6 +41,7 @@ die Sonne
 die Kleidung
 die Uhr
 die Schnecke
+die Schild­krö­te
 die Mayo
   
 das Haus
@@ -48,6 +50,7 @@ das Kind
 das Handy
 das Bett
 das Auto
+das motorrad
 das Geld
 das Problem
 das Handtuch
@@ -60,6 +63,7 @@ das Sandwich
 das theater
 das Kino
 das Haustier
+das Jobinterview
 
   
 </pre>
