@@ -21,11 +21,13 @@ der Schuh
 der Sommer
 der Tag
 der Teppich
+der Tisch
 der Wald
 der Wein
 der Witz
   
 die Arbeit
+die Flasche
 die Geige
 die Gitarre
 die Grammatik
@@ -61,11 +63,14 @@ das Kino
 das Kleid
 das Leckerli
 das Problem
+das Regal
 das Restaurant
 das Sandwich
 das Wetter
+das Wohnzimmer
 das Motorrad
 das Theater
+das Zimemr
 
   
 </pre>
