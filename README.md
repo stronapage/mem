@@ -32,6 +32,7 @@ die Flasche
 die Geige
 die Gitarre
 die Grammatik
+die Gurke
 die Katze
 die Kleidung
 die Lampe
