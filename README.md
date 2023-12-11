@@ -18,6 +18,7 @@ der Mond
 der Mond
 der Schreibtisch
 der Schuh
+der Sitz
 der Sommer
 der Tag
 der Teppich
