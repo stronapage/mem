@@ -52,6 +52,7 @@ die Zeit
   
 das Auto
 das Bett
+das Ei
 das Ende
 das Fahrrad
 das Geld
