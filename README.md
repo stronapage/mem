@@ -3,6 +3,7 @@
 der Bar miś
 der Baum
 der Blumenstrauß
+der Blu­men­la­den
 der Film
 der Fish
 der Flughafen
