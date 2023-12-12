@@ -43,6 +43,7 @@ die Mutter
 die Nummer
 die Orange
 die Packung
+die Pizza
 die Schild­krö­te
 die Schnecke
 die Sonne
