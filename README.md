@@ -34,6 +34,7 @@ die Geige
 die Gitarre
 die Grammatik
 die Gurke
+die Kasse
 die Katze
 die Kleidung
 die Lampe
