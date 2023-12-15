@@ -27,7 +27,8 @@ der Tisch
 der Wald
 der Wein
 der Witz
-  
+
+die Ap­fel­schor­le
 die Arbeit
 die Flasche
 die Geige
@@ -40,6 +41,7 @@ die Kleidung
 die Lampe
 die Maus
 die Mayo
+die Milch
 die Mutter
 die Nummer
 die Orange
