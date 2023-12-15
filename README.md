@@ -69,7 +69,6 @@ das Kind
 das Kino
 das Kleid
 das Leckerli
-das Pakung
 das Problem
 das Regal
 das Restaurant
