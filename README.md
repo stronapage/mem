@@ -35,6 +35,7 @@ die Geige
 die Gitarre
 die Grammatik
 die Gurke
+die Jacke
 die Kasse
 die Katze
 die Kleidung
